@@ -8,5 +8,5 @@ This is the final project for my database course. I built a student data managem
 make sure mysql server is on line.
 1. `npm install`
 2. create a `.env` in `server/`, template is `server/.env_template`.
-3. `npm run dev` to start deemo.
+3. `npm run start` to start deemo.
 4. if your need test data, you can using `server/test/test_data_1` to create student /lecturer data, using `server/test/test_data_2` to create relational data。
